@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DemonSlayer0715
+- 👋 Hi, I’m @Rajith
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mastery in Python
 - 💞️ I’m looking to collaborate on ...
